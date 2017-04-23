@@ -1,0 +1,19 @@
+{
+  "name": "x-cell",
+  "version": "1.0.0",
+  "description": "world's smallest spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/yandygonzalez/X-Cell.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/yandygonzalez/X-Cell/issues"
+  },
+  "homepage": "https://gitlab.com/yandygonzalez/X-Cell#README"
+}
