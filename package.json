@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/yandygonzalez/X-Cell/issues"
   },
-  "homepage": "https://gitlab.com/yandygonzalez/X-Cell#README"
+  "homepage": "https://gitlab.com/yandygonzalez/X-Cell#README",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
