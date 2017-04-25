@@ -51,7 +51,7 @@ describe('table-view', () => {
       expect(ths.length).toBe(numCols);
 
       let labelTexts = Array.from(ths).map(el => el.textContent);
-      expect(labelTexts).toEqual(['A', 'B', 'C', 'D', 'E', 'F', ]);
+      expect(labelTexts).toEqual(['A', 'B', 'C', 'D', 'E', 'F']);
     });
   });
 
